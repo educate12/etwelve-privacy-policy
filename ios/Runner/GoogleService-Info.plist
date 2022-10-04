@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>181382657226-jt9ul6bnd77gg6p2ggrmf3mm3l37717b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.181382657226-jt9ul6bnd77gg6p2ggrmf3mm3l37717b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>181382657226-1vbngojc4lubn9q5ik0magmnqjvhhbmo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaCxdZ728G8Vc80dPEIbjNPxFT8Ep-avY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181382657226</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.etwelve.etwelve</string>
+	<key>PROJECT_ID</key>
+	<string>updated-etwelve-database</string>
+	<key>STORAGE_BUCKET</key>
+	<string>updated-etwelve-database.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181382657226:ios:3b491da301fe50bae33033</string>
+	<key>DATABASE_URL</key>
+	<string>https://updated-etwelve-database-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
